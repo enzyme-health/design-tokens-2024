@@ -2,8 +2,9 @@
   "tokenSetOrder": [
     "global",
     "alias",
-    "brands/walgreens",
     "brands/wheel",
+    "brands/walgreens",
+    "brands/owlet",
     "modes/light",
     "modes/dark"
   ]

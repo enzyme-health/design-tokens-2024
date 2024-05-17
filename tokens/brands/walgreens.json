@@ -42,6 +42,12 @@
           "value": "#1e3a8a",
           "type": "color"
         }
+      },
+      "surface": {
+        "default": {
+          "value": "#F4F2EF",
+          "type": "color"
+        }
       }
     },
     "text": {
@@ -50,9 +56,15 @@
         "type": "color"
       }
     },
-    "surface": {
+    "border": {
       "default": {
-        "value": "#",
+        "value": "{colors.black}",
+        "type": "color"
+      }
+    },
+    "icons": {
+      "default": {
+        "value": "{colors.black}",
         "type": "color"
       }
     }

@@ -3,49 +3,49 @@
     "bg": {
       "primary": {
         "50": {
-          "value": "#F7F8F6",
+          "value": "# EBF1F3",
           "type": "color"
         },
         "100": {
-          "value": "#EDF3EC",
+          "value": "#D7E3E8",
           "type": "color"
         },
         "200": {
-          "value": "#E1E8DF",
+          "value": "#AFC7D1",
           "type": "color"
         },
         "300": {
-          "value": "#C8D9C4",
+          "value": "#87ACB9",
           "type": "color"
         },
         "400": {
-          "value": "#95B58D",
+          "value": "#5F90A2",
           "type": "color"
         },
         "500": {
-          "value": "#4A7E3C",
+          "value": "#37748B",
           "type": "color"
         },
         "600": {
-          "value": "#3D6227",
+          "value": "#2C5D6F",
           "type": "color"
         },
         "700": {
-          "value": "#2E4F25",
+          "value": "#214653",
           "type": "color"
         },
         "800": {
-          "value": "#1E3418",
+          "value": "#162E38",
           "type": "color"
         },
         "900": {
-          "value": "#0D1A09",
+          "value": "#0B171C",
           "type": "color"
         }
       },
       "surface": {
         "default": {
-          "value": "{colors.ivory.100}",
+          "value": "#F2F7FB",
           "type": "color"
         }
       }
@@ -58,13 +58,13 @@
     },
     "border": {
       "default": {
-        "value": "{colors.black}",
+        "value": "#",
         "type": "color"
       }
     },
     "icons": {
       "default": {
-        "value": "{colors.black}",
+        "value": "#",
         "type": "color"
       }
     }
