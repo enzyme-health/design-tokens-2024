@@ -1,0 +1,64 @@
+{
+  "brand-colors": {
+    "bg": {
+      "primary": {
+        "50": {
+          "value": "#F7F8F6",
+          "type": "color"
+        },
+        "100": {
+          "value": "#EDF3EC",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E1E8DF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#C8D9C4",
+          "type": "color"
+        },
+        "400": {
+          "value": "#95B58D",
+          "type": "color"
+        },
+        "500": {
+          "value": "#4A7E3C",
+          "type": "color"
+        },
+        "600": {
+          "value": "#3D6227",
+          "type": "color"
+        },
+        "700": {
+          "value": "#2E4F25",
+          "type": "color"
+        },
+        "800": {
+          "value": "#1E3418",
+          "type": "color"
+        },
+        "900": {
+          "value": "#0D1A09",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "default": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "default": {
+        "value": "#",
+        "type": "color"
+      }
+    }
+  },
+  "button-border": {
+    "value": "{radius.full}",
+    "type": "borderRadius"
+  }
+}
