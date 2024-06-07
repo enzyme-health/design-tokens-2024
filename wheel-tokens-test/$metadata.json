@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "global",
-    "alias",
-    "brands/wheel",
+    "core",
+    "semantic",
+    "brands/Default",
     "brands/walgreens",
     "brands/owlet",
     "modes/light",
